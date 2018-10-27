@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a **problem solver** and enjoy learning new things at my own pace. I started learning web development in less than 2 years, _with 0 prior experience_, and already had an Internship in the area, developed a website, a blog, learned **Node.js**, **Sass**, discovered the power of **web services**, built **API's**, and _much more_.
